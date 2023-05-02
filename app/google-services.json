@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568430792412",
+    "project_id": "todo-list2-a1390",
+    "storage_bucket": "todo-list2-a1390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568430792412:android:7aee8bfeeee3984902ee19",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568430792412-36emp1in4o6hakaeht0ni19ddubvokvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhcEL2A-ZddqosTx8WYV_druHOyIOyIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568430792412-36emp1in4o6hakaeht0ni19ddubvokvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
